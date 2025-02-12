@@ -82,10 +82,8 @@ This project is **open-source** and available under the **MIT License**.
 
 ## 📬 Contact
 📧 **Email:** dakshpanchal0605@gmail.com  
-🔗 **GitHub:** [Daksh-06](https://github.com/Daksh-06)  
-                [Priyanka26211](https://github.com/Priyanka26211)
-                [Vaishnavishah25](https://github.com/Vaishnavishah25)
-                [Darshan1164](https://github.com/Darshan1164)
+🔗 **GitHub:** 1.  [Daksh-06](https://github.com/Daksh-06)   2. [Priyanka26211](https://github.com/Priyanka26211) 3. [Vaishnavishah25](https://github.com/Vaishnavishah25)  4. [Darshan1164](https://github.com/Darshan1164)
+                
 🌍 **Project Link:** [Precision Farming Chatbot Repo](https://github.com/Daksh-06/Precision-Farming-Chatbot)
 
 ---
